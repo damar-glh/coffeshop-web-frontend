@@ -1,6 +1,6 @@
 # coffeshop-web-frontend-output
 
-Menu :
+Home :
 ![Screenshot (217)](https://user-images.githubusercontent.com/114411272/220236037-ada92aef-4fbe-4370-af01-5fe703f1fbc2.png)
 
 About Us :
@@ -12,6 +12,8 @@ Our Menu :
 Our Product :
 ![Screenshot (220)](https://user-images.githubusercontent.com/114411272/220236224-b1ff8c01-f58f-43e6-9991-61980d319884.png)
 
+Costumer's Reviuwe :
 ![Screenshot (221)](https://user-images.githubusercontent.com/114411272/220236292-e170c0c6-71ec-4d3c-a23d-6a99d77e516b.png)
 
+Our Blogs :
 ![Screenshot (222)](https://user-images.githubusercontent.com/114411272/220236355-f7438b55-6598-4271-9bc2-f0757d4bafa8.png)
